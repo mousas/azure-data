@@ -1,0 +1,12 @@
+{
+	"name": "ServidorArquivosHttp",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://github.com/mousas/azure-data/blob/mousas-patch-1/moviesDB.csv",
+			"enableServerCertificateValidation": false,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
