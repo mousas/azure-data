@@ -1,6 +1,6 @@
 # Os componentes para essa demo são:
 
-- Arquivo de dados: moviedDB.csv
+- Arquivo de dados: moviedDB.csv (https://github.com/mousas/azure-data/blob/mousas-patch-1/moviesDB.csv)
 
 1) Azure Data Lake Storage Gen2
 
