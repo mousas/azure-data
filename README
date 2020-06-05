@@ -1,0 +1,28 @@
+# Os componentes para essa demo são:
+
+- Arquivo de dados: moviedDB.csv
+
+1) Azure Data Lake Storage Gen2
+
+2) Azure Data Factory
+
+3) Azure Synapse Analytics
+
+
+## Demo 1 - Ingestão de dados com Azure Data Factory 
+
+> 💡 Antes de inciar você deve criar os componentes informados na sessão anterior.
+
+## Atividade 1: Fazer atividade 'Copy Data' dentro do Pipeline do Azure Data Factory
+
+Tempo estimado: 15 minutos
+  
+Siga as atividades abaixo:
+
+1. Adicione o Copy Activity no editor
+
+1. Criar um HTTP dataset para usar como origem
+
+1. Criar um ADLS Gen2 dataset sink
+
+1. Testar a Cópia de Dados
